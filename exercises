@@ -1,0 +1,47 @@
+Shell Scripting exercise :
+———————————
+
+1.Write a program to read two variables from console let say a & b & c
+
+Ex: a=5, b=2 , c =1
+
+Print the out (a*b)+c
+
+2.Write a program to read a variable name, age from console and the output should be as below:
+
+My name is “Bhavya”, aged “27”
+
+Python exercises:
+----------------
+
+*Write a program to print equilateral triangle
+* Write a program to print first 3 char and last 3 charcaters of s stringSample String : 'pythonclass'
+Expected Result : 'pytass'
+
+*Write a program to change the input string as output string (need to replqace that particular character)
+
+I/p: python
+o/p: p&thon
+
+*Write a program to print the exp of x and y where x=5, y=2 and then check if the output z (z= x**y) is > 10
+*Write a program to add all the elements in the list and print the output 
+list1=[1,2,5,6,7,3]
+
+*Write a program to print the n*n in the list like for example the input is list1=[1,2,3,4,5] and output should be list2=[1,4,9,16,25]
+*Concatenate two lists index-wise.
+
+Example:
+
+list1 = ["M", "ho", "to", "i", "war"]
+list2 = ["y", "me", "wn", "s", "angal"]
+
+Expected Output:
+
+['My', 'hometown', 'is', 'warangal']
+
+*WAP to add item 10 after 5 in the following Python List.
+
+sample_list = [1, 2, 5, 6, 7, 9]
+
+
+*Write a program to find the largest element in a list. Similarly, Write a program to find the smallest element in a list.
