@@ -45,3 +45,19 @@ sample_list = [1, 2, 5, 6, 7, 9]
 
 
 *Write a program to find the largest element in a list. Similarly, Write a program to find the smallest element in a list.
+
+
+*****Tuple Exercises:****
+-----------------------
+
+1.WAP to print the below output:
+
+tuple1=((1,2),(3,4))
+
+print 1,2,3,4
+and then 1,10,15,20 should be the output
+
+2.WAP to print the below output from the input 
+
+l2=[[4,2],[9,3]]
+output should be 2,3
