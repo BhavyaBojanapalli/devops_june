@@ -61,3 +61,18 @@ and then 1,10,15,20 should be the output
 
 l2=[[4,2],[9,3]]
 output should be 2,3
+
+****Dict Questions******
+-------------------------
+1. Create a dictionary from the given string with the letters count as value in it.
+
+Example:
+
+string1='aabbcccd'
+
+Expected Output:
+
+{'a': 2,'b': 2, 'c': 3,'d':1} 
+
+2.dict1={{1,2},{4,5}}
+print 1,2,4,5
